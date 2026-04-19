@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vapesitoh/vapesitoh/github/workflows/snake.svg" alt="Snake animation" />
+
 
 ###
